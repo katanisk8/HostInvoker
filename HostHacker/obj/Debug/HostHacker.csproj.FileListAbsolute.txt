@@ -1,0 +1,15 @@
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostInvocer\bin\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostInvocer\bin\Debug\HostHacker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostInvocer\obj\Debug\HostHacker.csprojResolveAssemblyReference.cache
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostInvocer\obj\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostInvocer\obj\Debug\HostHacker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostHacker\bin\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostHacker\bin\Debug\HostHacker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostHacker\obj\Debug\HostHacker.csprojResolveAssemblyReference.cache
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostHacker\obj\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\Nauka\HostInvoker\HostHacker\obj\Debug\HostHacker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\HostHacker\obj\Debug\HostHacker.csprojResolveAssemblyReference.cache
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\HostHacker\obj\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\HostHacker\obj\Debug\HostHacker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\HostHacker\bin\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\HostHacker\bin\Debug\HostHacker.pdb
