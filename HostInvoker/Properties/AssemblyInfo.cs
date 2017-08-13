@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HostHacker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("HostInvoker")]
+[assembly: AssemblyDescription("Example console application to breaking host password using dependency injection.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HostHacker")]
+[assembly: AssemblyCompany("ThreeM")]
+[assembly: AssemblyProduct("HostInvoker")]
 [assembly: AssemblyCopyright("Copyright by Marcin& Michał Makowej ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("203a4a7e-3281-41a9-b7bb-90843145fd19")]
+[assembly: Guid("76f5055b-11b0-4475-beec-0837de791dcf")]
 
 // Version information for an assembly consists of the following four values:
 //

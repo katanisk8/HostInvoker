@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{76F5055B-11B0-4475-BEEC-0837DE791DCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostInvoker", "HostInvoker\HostInvoker.csproj", "{76F5055B-11B0-4475-BEEC-0837DE791DCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostHacker", "HostHacker\HostHacker.csproj", "{203A4A7E-3281-41A9-B7BB-90843145FD19}"
 EndProject

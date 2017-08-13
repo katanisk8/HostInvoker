@@ -1,0 +1,10 @@
+F:\Projects\Tools\HostInvoker\HostInvoker\bin\Debug\HostInvoker.exe.config
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\bin\Debug\HostInvoker.exe.config
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\bin\Debug\HostInvoker.exe
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\bin\Debug\HostInvoker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\bin\Debug\HostHacker.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\bin\Debug\System.Net.FtpClient.dll
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\bin\Debug\HostHacker.pdb
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\obj\Debug\HostInvoker.csprojResolveAssemblyReference.cache
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\obj\Debug\HostInvoker.exe
+C:\Users\Michal Makowej\Desktop\C#\Projekty\HostInvoker\DependencyInjection\obj\Debug\HostInvoker.pdb
